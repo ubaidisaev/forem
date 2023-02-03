@@ -59,7 +59,7 @@ gem "liquid", "~> 5.3" # A secure, non-evaling end user template engine with aes
 gem "metainspector", "~> 5.12" # To get and parse website metadata for Open Graph rich objects
 gem "nokogiri", "~> 1.13" # HTML, XML, SAX, and Reader parser
 gem "octokit", "~> 4.25" # Simple wrapper for the GitHub API
-gem "oj", "~> 3.13" # JSON parser and object serializer
+gem "oj", "~> 3.14" # JSON parser and object serializer
 gem "omniauth", "~> 2.1" # A generalized Rack framework for multiple-provider authentication
 gem "omniauth-apple", "~> 1.0" # OmniAuth strategy for Sign In with Apple
 gem "omniauth-facebook", "~> 9.0" # OmniAuth strategy for Facebook
